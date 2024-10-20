@@ -1,4 +1,4 @@
-
+# Slot Machine Program in Python
 import random
 
 def spin_row():
