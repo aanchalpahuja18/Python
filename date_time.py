@@ -1,5 +1,6 @@
-import datetime
+#Date time in python
 
+import datetime
 
 # Working with dates
 date = datetime.date(2024, 11, 11)
